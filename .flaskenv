@@ -1,4 +1,3 @@
-FLASK_APP=app 
-FLASK_DEBUG=True
-psycopg2-binary
-psycopg2
+FLASK_APP = app 
+FLASK_DEBUG = True 
+FLASK_ENV = Production
